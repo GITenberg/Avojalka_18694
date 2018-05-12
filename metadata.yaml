@@ -1,0 +1,39 @@
+_repo: Avojalka_18694
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: ''
+gutenberg_issued: '2006-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18694'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Avojalka
+url: http://www.gutenberg.org/ebooks/18694
